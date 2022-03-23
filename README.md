@@ -1,6 +1,6 @@
 <img align="right" width="150" height="150" top="100" src="./assets/readme.jpg">
 
-# stub.rs • [![tests](https://github.com/abigger87/stub.rs/actions/workflows/tests.yml/badge.svg)](https://github.com/abigger87/stub.rs/actions/workflows/tests.yml) [![lints](https://github.com/abigger87/stub.rs/actions/workflows/lints.yml/badge.svg)](https://github.com/abigger87/stub.rs/actions/workflows/lints.yml) ![GitHub](https://img.shields.io/github/license/abigger87/stub.rs)  ![Crates.io](https://img.shields.io/crates/v/stub.rs)
+# stub.rs • [![tests](https://github.com/abigger87/stub.rs/actions/workflows/tests.yaml/badge.svg)](https://github.com/abigger87/stub.rs/actions/workflows/tests.yaml) [![lints](https://github.com/abigger87/stub.rs/actions/workflows/lints.yaml/badge.svg)](https://github.com/abigger87/stub.rs/actions/workflows/lints.yaml) ![GitHub](https://img.shields.io/github/license/abigger87/stub.rs)  ![Crates.io](https://img.shields.io/crates/v/stub.rs)
 
 Modern, Extensible Template for Rust Projects.
 
