@@ -1,6 +1,6 @@
 [workspace]
 members = [
-  # TODO: ADD CRATES HERE
+  "example"
 ]
 
 # Binary size optimizations
