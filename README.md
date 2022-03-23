@@ -11,15 +11,13 @@ Click `use this template` on [Github](https://github.com/abigger87/stub.rs) to c
 ## Blueprint
 
 ```ml
-lib
-├─ ds-test — https://github.com/dapphub/ds-test
-├─ forge-std — https://github.com/brockelmore/forge-std
-├─ solmate — https://github.com/Rari-Capital/solmate
-├─ clones-with-immutable-args — https://github.com/wighawag/clones-with-immutable-args
-src
-├─ tests
-│  └─ Greeter.t — "Greeter Tests"
-└─ Greeter — "A Minimal Greeter Contract"
+assets
+├─ embedded documentation images
+example
+├─ src
+│  └─ lib.rs — Example Rust Library
+├─ Cargo.toml — Library Cargo Manifest
+Cargo.toml — Workspace Cargo Manifest
 ```
 
 ## Development
